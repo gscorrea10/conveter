@@ -13,3 +13,12 @@ O programa, escrito em Linguagem C, deverá realizar a conversão de números in
 <b>Restrições:</b>
 
 Tamanho dos números, em binário, que o conversor deve manipular, será de, no mínimo, 32 bits.
+
+## Para executar:
+
+```gcc main.c -o main -m```
+
+<b>&&</b>
+
+``` ./main ```
+
